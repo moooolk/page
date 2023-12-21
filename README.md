@@ -1,6 +1,6 @@
-#My first web site on HTML&CSS - CV Page
+# My first web site on HTML&CSS - CV Page
 
-##Author - Maria Khomenok | No license
+## Author - Maria Khomenok | No license
 
 [Go to my site](https://moooolk.github.io/page/)
 
