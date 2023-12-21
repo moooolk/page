@@ -1,0 +1,97 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+body {
+    font-family: fantasy;
+    background-color: antiquewhite;
+}
+
+header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.avatar {
+    width: 300px;
+    border-radius: 25px;
+}
+
+.title__main {
+
+  font-size: 28px
+}
+.title__subtitle {
+    font-size: 28px;
+    color: rgb(12, 12, 14);
+}
+
+main {
+    border: 2px solid rgb(29, 17, 19);
+    border-bottom: 0;
+    padding: 18px;
+    text-align: center;
+}
+
+.skills__ol li {
+    list-style: none;
+}
+.separator {
+    height: 5px;
+}
+.video iframe {
+ height: 400px;
+ width: 650px;
+}
+
+.education__table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.education__table th,
+.education__table td {
+    padding: 16px;
+    border: 1px solid black;
+}
+
+.quote {
+    font-weight: 500;
+    font-size: 32px;
+}
+
+.form {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.form__input {
+    width: 100%;
+}
+
+.textarea {
+    margin-top: 14px;
+    width: 90%;
+}
+
+.form__submit {
+    display: block;
+    margin: 0 auto;
+    height: 30px;
+    width: 120px;
+}
+
+footer {
+    width: 100%;
+    height: 120px;
+    background-color: mediumorchid;
+}
+.contracts {
+    text-align: center;
+}
+.contacts__link {
+    color: black;
+    font-weight: 700;
+}
